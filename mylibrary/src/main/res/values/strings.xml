@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Library</string>
+    <string name="simple_view_behavior">com.example.mylibrary.SimpleViewBehavior</string>
+    <string name="alpha_view_behavior">com.example.mylibrary.AlphaViewBehavior</string>
+</resources>
